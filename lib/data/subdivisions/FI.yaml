@@ -1,27 +1,55 @@
 ---
-AL:
-  name: "Ahvenanmaan lääni"
-  names:
-    - Åland
+AM:
+  name: "Ahvenanmaan maakunta"
+  names: "Ahvenanmaan maakunta"
+EK:
+  name: "Etelä-Karjala"
+  names: "Etelä-Karjala"
+EP:
+  name: "Etelä-Pohjanmaa"
+  names: "Etelä-Pohjanmaa"
 ES:
-  name: "Etelä-Suomen lääni"
-  names: "Etelä-Suomen lääni"
-IS:
-  name: "Itä-Suomen lääni"
-  names:
-    - "Östra Nyland"
-    - Itä-Uusimaa
-    - "Uusima de lʿEst"
-LL:
-  name: "Lapin lääni"
-  names:
-    - Lappland
-    - Lappi
-    - Lappland
-    - Laponie
-LS:
-  name: "Länsi-Suomen lääni"
-  names: "Länsi-Suomen lääni"
-OL:
-  name: "Oulun lääni"
-  names: "Oulun lääni"
+  name: "Etelä-Savo"
+  names: "Etelä-Savo"
+KA:
+  name: "Kainuu"
+  names: "Kainuu"
+KH:
+  name: "Kanta-Häme"
+  names: "Kanta-Häme"
+KP:
+  name: "Keski-Pohjanmaa"
+  names: "Keski-Pohjanmaa"
+KS:
+  name: "Keski-Suomi"
+  names: "Keski-Suomi"
+KY:
+  name: "Kymenlaakso"
+  names: "Kymenlaakso"
+LA:
+  name: "Lappi"
+  names: "Lappi"
+PH:
+  name: "Päijät-Häme"
+  names: "Päijät-Häme"
+PI:
+  name: "Pirkanmaa"
+  names: "Pirkanmaa"
+PO:
+  name: "Pohjanmaa"
+PK:
+  name: "Pohjois-Karjala"
+PP:
+  name: "Pohjois-Pohjanmaa"
+PS:
+  name: "Pohjois-Savo"
+  names: "Pohjois-Savo"
+SK:
+  name: "Satakunta"
+  names: "Satakunta"
+UM:
+  name: "Uusimaa"
+  names: "Uusimaa"
+VS:
+  name: "Varsinais-Suomi"
+  names: "Varsinais-Suomi"
